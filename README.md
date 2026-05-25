@@ -30,6 +30,8 @@ There is no single "best." The open-source tools (Javinizer, JavLuv, Stash) are 
 
 One thing that's true across all of them: pick based on whether you want to process your collection (rename and sort once) or live in it (search and browse daily). That single question narrows your choice faster than any feature list.
 
+*See also: [GUIDE.md](./GUIDE.md) — a step-by-step field guide to organizing a large JAV collection in 2026.*
+
 ---
 
 JavClaw is a local-first JAV library manager for Mac and Windows. It auto-recognizes codes, builds a searchable local index, and keeps everything on your machine. Learn more at [javclaw.ai](https://javclaw.ai).
